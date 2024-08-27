@@ -1,12 +1,15 @@
-﻿using AutoMapper.Configuration.Conventions;
+﻿using AutoMapper;
+using AutoMapper.Configuration.Conventions;
+using RentalProject.Models;
+using RentRide.Models.ViewModels.Vehicle;
 
 namespace RentRide.Mapper
 {
-    public class VehicleProfile
+    public class VehicleProfile:Profile
     {
         public VehicleProfile()
         {
-           // CreateMap<source , destination>();
+            CreateMap<Vehicle, VehicleViewModel>();
         }
     }
 }

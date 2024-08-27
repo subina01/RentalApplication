@@ -817,11 +817,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\subia\\7thSemProject\\RentalProjectModel\\RentalProject.Models.csproj",
+      "projectUniqueName": "C:\\Users\\subia\\Project\\RentalProjectModel\\RentalProject.Models.csproj",
       "projectName": "RentalProject.Models",
-      "projectPath": "C:\\Users\\subia\\7thSemProject\\RentalProjectModel\\RentalProject.Models.csproj",
+      "projectPath": "C:\\Users\\subia\\Project\\RentalProjectModel\\RentalProject.Models.csproj",
       "packagesPath": "C:\\Users\\subia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\subia\\7thSemProject\\RentalProjectModel\\obj\\",
+      "outputPath": "C:\\Users\\subia\\Project\\RentalProjectModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -881,7 +881,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

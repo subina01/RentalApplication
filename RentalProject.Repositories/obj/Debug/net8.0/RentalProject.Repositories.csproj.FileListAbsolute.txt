@@ -1,0 +1,16 @@
+C:\Users\subia\Project\RentalProject.Repositories\bin\Debug\net8.0\RentalProject.Repositories.deps.json
+C:\Users\subia\Project\RentalProject.Repositories\bin\Debug\net8.0\RentalProject.Repositories.dll
+C:\Users\subia\Project\RentalProject.Repositories\bin\Debug\net8.0\RentalProject.Repositories.pdb
+C:\Users\subia\Project\RentalProject.Repositories\bin\Debug\net8.0\RentalProject.Models.dll
+C:\Users\subia\Project\RentalProject.Repositories\bin\Debug\net8.0\RentalProject.Models.pdb
+C:\Users\subia\Project\RentalProject.Repositories\obj\Debug\net8.0\RentalProject.Repositories.csproj.AssemblyReference.cache
+C:\Users\subia\Project\RentalProject.Repositories\obj\Debug\net8.0\RentalProject.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subia\Project\RentalProject.Repositories\obj\Debug\net8.0\RentalProject.Repositories.AssemblyInfoInputs.cache
+C:\Users\subia\Project\RentalProject.Repositories\obj\Debug\net8.0\RentalProject.Repositories.AssemblyInfo.cs
+C:\Users\subia\Project\RentalProject.Repositories\obj\Debug\net8.0\RentalProject.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\subia\Project\RentalProject.Repositories\obj\Debug\net8.0\RentalProject.Repositories.sourcelink.json
+C:\Users\subia\Project\RentalProject.Repositories\obj\Debug\net8.0\RentalPr.981B2BFA.Up2Date
+C:\Users\subia\Project\RentalProject.Repositories\obj\Debug\net8.0\RentalProject.Repositories.dll
+C:\Users\subia\Project\RentalProject.Repositories\obj\Debug\net8.0\refint\RentalProject.Repositories.dll
+C:\Users\subia\Project\RentalProject.Repositories\obj\Debug\net8.0\RentalProject.Repositories.pdb
+C:\Users\subia\Project\RentalProject.Repositories\obj\Debug\net8.0\ref\RentalProject.Repositories.dll

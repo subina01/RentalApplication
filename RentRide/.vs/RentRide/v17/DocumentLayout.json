@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\subia\\7thSemProject\\RentRide\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\subia\\Project\\RentRide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07A3E01E-81CC-4FB9-86B1-20CD4C7D6D19}|RentRide.csproj|c:\\users\\subia\\project\\rentride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A3E01E-81CC-4FB9-86B1-20CD4C7D6D19}|RentRide.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A3E01E-81CC-4FB9-86B1-20CD4C7D6D19}|RentRide.csproj|c:\\users\\subia\\project\\rentride\\custommiddleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A3E01E-81CC-4FB9-86B1-20CD4C7D6D19}|RentRide.csproj|solutionrelative:custommiddleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\subia\\Project\\RentRide\\CustomMiddleWare\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "CustomMiddleWare\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\subia\\Project\\RentRide\\CustomMiddleWare\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "CustomMiddleWare\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:14:22.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\subia\\Project\\RentRide\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\subia\\Project\\RentRide\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAEwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T11:05:01.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

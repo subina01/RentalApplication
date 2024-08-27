@@ -1,0 +1,13 @@
+C:\Users\subia\Project\RentalProjectModel\bin\Debug\net8.0\RentalProject.Models.deps.json
+C:\Users\subia\Project\RentalProjectModel\bin\Debug\net8.0\RentalProject.Models.dll
+C:\Users\subia\Project\RentalProjectModel\bin\Debug\net8.0\RentalProject.Models.pdb
+C:\Users\subia\Project\RentalProjectModel\obj\Debug\net8.0\RentalProject.Models.csproj.AssemblyReference.cache
+C:\Users\subia\Project\RentalProjectModel\obj\Debug\net8.0\RentalProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subia\Project\RentalProjectModel\obj\Debug\net8.0\RentalProject.Models.AssemblyInfoInputs.cache
+C:\Users\subia\Project\RentalProjectModel\obj\Debug\net8.0\RentalProject.Models.AssemblyInfo.cs
+C:\Users\subia\Project\RentalProjectModel\obj\Debug\net8.0\RentalProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\subia\Project\RentalProjectModel\obj\Debug\net8.0\RentalProject.Models.sourcelink.json
+C:\Users\subia\Project\RentalProjectModel\obj\Debug\net8.0\RentalProject.Models.dll
+C:\Users\subia\Project\RentalProjectModel\obj\Debug\net8.0\refint\RentalProject.Models.dll
+C:\Users\subia\Project\RentalProjectModel\obj\Debug\net8.0\RentalProject.Models.pdb
+C:\Users\subia\Project\RentalProjectModel\obj\Debug\net8.0\ref\RentalProject.Models.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RentRide")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d3386f684e87424116a92b1aa88ad7c05ce9d2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RentRide")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RentRide")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
